@@ -5,3 +5,4 @@ __pycache__
 *.pytest_cache
 .gitattributes
 energyCSV/
+submission.csv
