@@ -6,4 +6,4 @@ __pycache__
 .gitattributes
 energyCSV/
 submission.csv
-ignoreThese
+workbooks/ignoreThese
