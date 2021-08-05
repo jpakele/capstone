@@ -1,12 +1,14 @@
-# Capstone
+Link to csv files
+- https://www.kaggle.com/c/ashrae-energy-prediction/data
 
-link for the csv files in scratchWork.ipynb
-default names for CSV are used.
-move all CSV into a folder titled 'energyCSV'. This file should sit in the root.
+**Default names for CSV are used.
+Move all CSV into a folder titled 'energyCSV'. This file should sit in the master root.**
 
-Koustav Banerjee: https://www.kaggle.com/c/ashrae-energy-prediction/data
+Code for memory reduction function
+- Koustav Banerjee: https://www.kaggle.com/c/ashrae-energy-prediction/data
 
-Alexander Sylvester: https://www.kaggle.com/alexandersylvester
+Code for getMissingInfo function
+- Alexander Sylvester: https://www.kaggle.com/alexandersylvester
 
 # Business Goal
 To take in information about meter readings for a building(s) provide an accurate prediction of what their next year meter readings might look like. The use case for this model is to be used in comparison after a building has switched to green energy for a period of time. This is to show the amount of money that would save in comparison to what the would have spend had they not switched to green energy.
